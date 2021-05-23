@@ -7,8 +7,8 @@ import pytz
 
 
 # CLIENT SETTINGS
-API_ID = 
-API_HASH = 
+API_ID = 0
+API_HASH = '123'
 client = TelegramClient('session_name', API_ID, API_HASH)
 
 # BOT SETTINGS
